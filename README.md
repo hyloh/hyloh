@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am HuiYi student from UTM
+
 <!--
 **hyloh/hyloh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
