@@ -4,7 +4,7 @@
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="250"/>
 </div>
-<h1 align="center">I'm Loh Hui Yi <img src="[C:\Users\ACER\Downloads\octocat-1704548277053.pn](https://camo.githubusercontent.com/b8fead6533e883d4bcc925eaa028c9815dd19d911ea5ed1b9ce8107faacfbafb/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6465616c7769746869746e6f77706172726f742e676966)" width="50"></h1>
+<h1 align="center">I'm Loh Hui Yi <img src="[C:\Users\ACER\Downloads\octocat-1704548277053.pn](https://camo.githubusercontent.com/b8fead6533e883d4bcc925eaa028c9815dd19d911ea5ed1b9ce8107faacfbafb/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6465616c7769746869746e6f77706172726f742e676966)](https://camo.githubusercontent.com/b8fead6533e883d4bcc925eaa028c9815dd19d911ea5ed1b9ce8107faacfbafb/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6465616c7769746869746e6f77706172726f742e676966)" width="50"></h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3><img align="right" src="https://user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif" width="150"/>
 
 <h3 align="left">Connect with me:</h3>
